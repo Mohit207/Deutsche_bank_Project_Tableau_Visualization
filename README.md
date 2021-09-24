@@ -1,0 +1,2 @@
+# Deutsche_bank_Project_Tableau_Visualization
+Provide insights to determine the reason for customers to exit the bank. 2.Project Scope In this project, the overall goal is to predict the churn of bank customers. From a business perspective, this is very relevant for the effort to retain customers with the ultimate end goal of increasing profitability. Customer churn is defined as the percentage of customers that stopped using a company's product or service offering in a defined time frame.
